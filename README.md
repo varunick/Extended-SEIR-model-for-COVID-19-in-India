@@ -2,8 +2,11 @@
 This is an extended SIER model to predict the death rate of coronavirus cases in India as of 17/05/2020.
 
 The model uses the data for daily global deaths collated on "https://tinyurl.com/t59cgxn". Besides this, it also uses static data for age groups, probabilities, and ICU beds from UN Data.
-The beds data has number of ICU beds per 100k population of many countries
+
+The beds data has number of ICU beds per 100k population of many countries.
+
 Age group data has total population of countries per age group.
+
 Probabilities data has proability of people going from Infected to Critical and Critical to Dead per age groups.
 
 This SIER model is an extension of the basic SIR (Susceptible infected recovered) epidemic model which uses differential equations for Susceptible, Exposed,Infected, Critical, Recovered and Dead population.
