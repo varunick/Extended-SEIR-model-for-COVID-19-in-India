@@ -11,7 +11,7 @@ Probabilities data has proability of people going from Infected to Critical and 
 
 This SIER model is an extension of the basic SIR (Susceptible infected recovered) epidemic model which uses differential equations for Susceptible, Exposed,Infected, Critical, Recovered and Dead population.
 
-This model has assumed incubation period of COVID-19 as 9 days and number of days an infected person can infect other people as 3 days.it is also assumed that India is adding more ICU beds per day at a rate which is being calculated by the model.
+This model has assumed incubation period of COVID-19 as 9 days and number of days an infected person can infect other people as 3 days.it is also assumed that India is adding more ICU beds per day at a rate which is being calculated by the model. It also assumes that every critical patient who doesn't get an ICU bed dies. Also a recovered patient becomes immune to the virus (which looks like the actual scenario atleast till now)
 
 India imposed complete lockdown on 22nd March. before this, the R_0 for India was close to 5. However during the lockdown, R_0 has averaged around 1.50. this model assumes that R_0 for India will remain at aorund 1.6 throughout this year even after lockdown is lifted and people follow the guidelines provided by the government. 
 
