@@ -17,6 +17,6 @@ India imposed complete lockdown on 22nd March. before this, the R_0 for India wa
 
 As of today 17/05, we have around 100-150 deaths per day in India.
 
-After building this model, we can predict that around end of June/start of July, we will start seeing the deaths per day increasing exponentially. This will peak and go upto 12000 deaths per day around end of July and start of August and will then start coming down and retun to current numbers like 100 deaths per day around start of September. So from this model we can predict coronavirus reaching its peak in India in June and July and then going down from Aug/Sep onwards.
+After building this model, we can predict that around end of June/start of July, we will start seeing the deaths per day increasing exponentially. This will peak and go upto 12000 deaths per day around end of July and start of August. This is also the time when the number of patients requiring critical care will start to overwhelm the availability of ICU beds in India. However these numbers will then start coming down and return to current numbers like 100 deaths per day around start of September. So from this model we can predict coronavirus reaching its peak in India in June and July and then going down from Aug/Sep onwards.
 
 
