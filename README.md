@@ -1,5 +1,5 @@
 # Extended-SEIR-model-for-COVID-19-in-India
-This is an extended SIER model to predict the death rate of coronavirus cases in India as of 17/05/2020.
+This is an extended SEIR model to predict the death rate of coronavirus cases in India as of 17/05/2020.
 
 The model uses the data for daily global deaths collated on "https://tinyurl.com/t59cgxn". Besides this, it also uses static data for age groups, probabilities, and ICU beds from UN Data.
 
